@@ -1,1 +1,1 @@
-This is the planning module.
+This is the planning module. Will implement A star, RRT, etc.
