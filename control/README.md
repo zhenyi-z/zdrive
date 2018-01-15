@@ -1,1 +1,1 @@
-This is the control module.
+This is the control module. Will be implemented using PID, MPC, etc.
