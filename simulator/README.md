@@ -1,1 +1,1 @@
-This is the simulator module.
+This is the simulator module. Will be implemented using Panda3D.
